@@ -4,7 +4,7 @@ import './style.css';
 // Write TypeScript code!
 const appDiv: HTMLElement = document.getElementById('app');
 appDiv.innerHTML = `<h1>TypeScript Starter</h1>`;
-function max_value(x,y){
+function min_value(x,y){
   return  min;
 }
 let min=Math.min(3,4);
