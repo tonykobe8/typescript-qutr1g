@@ -5,6 +5,7 @@ import './style.css';
 const appDiv: HTMLElement = document.getElementById('app');
 appDiv.innerHTML = `<h1>TypeScript Starter</h1>`;
 function max_value(x,y){
-  return x > y;
+  return  min;
 }
-console.log (max (4,7));
+let min=Math.min(3,4);
+console.log(min);
